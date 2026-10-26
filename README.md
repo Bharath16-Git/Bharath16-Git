@@ -60,22 +60,6 @@ My expertise spans **Kubernetes platform engineering, infrastructure automation,
 
 ---
 
-## 📂 Featured Project
-
-### 🧠 [bankGPT — Temporal Knowledge & Conflict Resolution](https://github.com/Bharath16-Git/bankgpt-knowledge-system)
-
-**Python | Knowledge Retrieval | Temporal Reasoning | Conflict Detection**
-
-A knowledge system designed to answer financial-information questions accurately using historical website snapshots.
-
-- Supports source-backed answers and point-in-time information retrieval.
-- Detects conflicting claims and applies evidence-ranking rules.
-- Handles financial product terms, tiers, and historical changes.
-- Abstains when sufficient supporting evidence is unavailable.
-- Achieved **72.62% accuracy** on the supplied public evaluation, with zero execution errors.
-- Tested successfully using Python 3.11.
-
----
 
 ## 🎯 Areas of Focus
 
